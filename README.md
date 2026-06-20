@@ -1,3 +1,17 @@
+<!--
+**Devsharma08/Devsharma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on WebRTC for making unique, useful software together with working on an advanced Express & TypeScript backend designed to ingest post-stream YouTube videos and completed livestreams, scrape their transcripts and live chat records, align comments to transcript segments via typing-latency adjustments, generate local vector embeddings, and support context-guided RAG (Retrieval-Augmented Generation) Q&A queries.
+- 🌱 I’m currently learning advanced frontend and system architecture patterns.
+- 👯 I’m looking to collaborate on BraceRCE (bracerce.devsharma.dev) which is a high-density, ultra-premium Futuristic/Fantasy User Interface (FUI) web application and remote compiler engine. It is engineered to bridge the gap between learning theoretical structures and practicing real-time competitive algorithms. By combining the native capabilities of modern web browsers with isolated secure execution containers on AWS, BraceRCE compiles, executes, and profiles competitive code templates on-demand, supplying high-precision telemetry insights instantly.
+- 🤔 I’m looking for help with WebRTC and real-time multiplayer systems.
+- 💬 Ask me about MERN/MEAN stack development, REST APIs, or SQL/NoSQL databases.
+- 📫 How to reach me: devsharma08072004@gmail.com (or via [Direct Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=devsharma08072004@gmail.com))
+- ⚡ Fun fact: I love compilation and processing directly in the browser using tools like FFmpeg WASM.
+-->
+
 # Hi there, I'm Dev Sharma 👋
 ### Full-Stack Developer | Building Scalable Web Applications 🚀
 
@@ -17,8 +31,8 @@ My primary focus is on **modern web architectures, RESTful APIs, real-time commu
 - 💻 Passionate about **Full-Stack Web Development** and **System Architecture**
 - 🌐 Portfolio Website: [devsharma.dev](https://devsharma.dev)
 - 💼 LinkedIn: [Dev Sharma](https://linkedin.com/in/dev-sharma-708074321)
-- 📝 LeetCode: [Devsharma08](https://leetcode.com/u/Devsharma08/)
-- ✉️ Email: [devsharma08072004@gmail.com](mailto:devsharma08072004@gmail.com)
+- 📝 LeetCode: [Dev_sharma87](https://leetcode.com/u/Dev_sharma87/)
+- ✉️ Email: [devsharma08072004@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=devsharma08072004@gmail.com)
 
 ---
 
@@ -84,12 +98,12 @@ Here are the main software platforms and architectures I have designed and built
 #### 1. BRACE RCE // ONLINE IDE & TELEMETRY ENGINE 💻
 ```text
 ==============================================================================
-   ____    ____     ____         _____      ____     ____    _____
-  |  _ \  |  _ \   / __ \   / __ \  | ____|  / __ \   / __ \  | ____|
-  | |_) | | |_) | | /  \ | | /  \/  | |__   | /  \/  | /  \/  | |__
-  |  _ <  |  _ <  | |  | | | |      |  __|  | |      | |      |  __|
-  | |_) | | | \ \ | \__/ | | \__/\  | |___  | \__/\  | \__/\  | |___
-  |____/  |_|  \_\ \____/   \____/  |_____|  \____/   \____/  |_____
+  ____     ____      ___       ____     _____     ____     ____     _____  
+ |  _ \   |  _ \    /  \     / ___|   | ____|   |  _ \   / ___|   | ____| 
+ | |_) |  | |_) |  / /\ \    | |      | |__     | |_) | | |       | |__   
+ |  _ <   |  _ <  / /__\ \   | |      |  __|    |  _ <  | |       |  __|  
+ | |_) |  | | \ \ |  __  |   | \___|  | |___    | | \ \ | \___|   | |___  
+ |____/   |_|  \_\|_|  |_|   \____|   |_____|   |_|  \_\ \____|   |_____| 
 ==============================================================================
                     // SYS // REMOTE_CODE_EXECUTION_IDE
 ```
@@ -131,15 +145,15 @@ A fully responsive, high-performance web application recreating the core functio
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devsharma08&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Dev Sharma's GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Devsharma08&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Dev Sharma's GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsharma08&layout=compact&theme=nord&hide=html,css" alt="Dev Sharma's Top Languages" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsharma08&layout=compact&theme=nord&hide=html,css" alt="Dev Sharma's Top Languages" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devsharma08&theme=nord" alt="Dev Sharma's GitHub Streak" />
+        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Devsharma08&theme=nord" alt="Dev Sharma's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -155,10 +169,10 @@ If you want to collaborate on a full-stack project, discuss web performance, or 
   <a href="https://linkedin.com/in/dev-sharma-708074321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://leetcode.com/u/Devsharma08/" target="_blank">
+  <a href="https://leetcode.com/u/Dev_sharma87/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
   </a>
-  <a href="mailto:devsharma08072004@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devsharma08072004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://devsharma.dev" target="_blank">
