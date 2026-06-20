@@ -77,39 +77,51 @@ My primary focus is on **modern web architectures, RESTful APIs, real-time commu
 
 ### 🚀 Highlighted Projects
 
-Here are some of the key web applications and architectures I've designed and built:
+Here are the main software platforms and architectures I have designed and built:
 
-#### 1. 📂 Web-Based Media & File Processing App (FFmpeg WASM)
-*A high-performance browser-based processing suite utilizing FFmpeg compiled to WebAssembly.*
-- **Tech Stack:** React, TypeScript, Vite, FFmpeg WASM, Tailwind CSS.
-- **Key Features:**
-  - Performs complex client-side video conversion and image operations directly in the browser to reduce server compute load.
-  - Interactive UI with custom drag-and-drop mechanics and processing progress bars.
-  - Implements client-side caching to speed up recurring batch operations.
+---
 
-#### 2. ⚡ Real-Time Collaborative Workspace (Monaco Editor & WebRTC)
-*A collaborative developer suite with real-time syncing capabilities.*
-- **Tech Stack:** Next.js, Node.js, Socket.IO, WebRTC, Monaco Editor, Redis.
-- **Key Features:**
-  - Enabled multi-user synchronized code editing with cursor position tracking using the Monaco Editor.
-  - Implemented low-latency text sync via Socket.IO events and Redis adapter for scaling backend server nodes.
-  - Built-in WebRTC peer-to-peer audio/video calling to enable seamless team communication during coding.
+#### 1. BRACE RCE // ONLINE IDE & TELEMETRY ENGINE 💻
+```text
+==============================================================================
+   ____    ____     ____         _____      ____     ____    _____
+  |  _ \  |  _ \   / __ \   / __ \  | ____|  / __ \   / __ \  | ____|
+  | |_) | | |_) | | /  \ | | /  \/  | |__   | /  \/  | /  \/  | |__
+  |  _ <  |  _ <  | |  | | | |      |  __|  | |      | |      |  __|
+  | |_) | | | \ \ | \__/ | | \__/\  | |___  | \__/\  | \__/\  | |___
+  |____/  |_|  \_\ \____/   \____/  |_____|  \____/   \____/  |_____
+==============================================================================
+                    // SYS // REMOTE_CODE_EXECUTION_IDE
+```
+**[🔗 Live Demo](https://bracerce.devsharma.dev)** | **[💻 Source Code](https://github.com/Devsharma08/ONLINE_IDE)** | **[📚 Challenges Code](https://github.com/Devsharma08/DSA-LEETCODE)**
 
-#### 3. 🔐 Enterprise Authentication Module & Task Manager
-*A secure task management application focused on role-based security.*
-- **Tech Stack:** Node.js, Express, PostgreSQL, Prisma ORM, JWT, Angular.
-- **Key Features:**
-  - Implemented secure user authentication featuring Role-Based Access Control (RBAC) and JSON Web Tokens (JWT).
-  - Robust backend security including password hashing, request rate-limiting, and input sanitization (XSS protection).
-  - Built with Test-Driven Development (TDD) using Jest for high test coverage and reliable deployments.
+BraceRCE is a high-density, ultra-premium Futuristic/Fantasy User Interface (FUI) web application and remote compiler engine engineered to bridge the gap between learning theoretical structures and practicing real-time competitive algorithms. By combining native browser features with isolated secure Docker execution containers on AWS, BraceRCE compiles, executes, and profiles competitive code templates on-demand, supplying high-precision telemetry insights instantly.
 
-#### 4. 🔗 Microservices-Based Cloud Deployment
-*A scalable task runner and API gateway infrastructure.*
-- **Tech Stack:** Express.js, Docker, Docker Compose, AWS EC2 & S3, GitHub Actions (CI/CD).
-- **Key Features:**
-  - Containerized individual app components (frontend, backend, database) with custom Dockerfiles.
-  - Configured automated integration testing and linting pipelines via GitHub Actions.
-  - Deployed database migrations and microservice state synchronizations using Prisma and AWS S3 storage.
+- **Frontend & IDE:** Vite, React, Tailwind CSS, Monaco Editor (with protected boilerplates and real-time category filtering).
+- **Execution & Security:** Express.js compiler API running inside sandboxed Docker containers, hardened with `express-rate-limit`, Linux capability stripping (`--cap-drop=ALL`), read-only root filesystems, and temporary memory mounts (`--tmpfs`).
+- **Database & Syncer:** PostgreSQL, Prisma ORM, and a custom fuzzy template synchronizer utilizing Levenshtein distance calculations.
+
+---
+
+#### 2. POST-STREAM INGESTION & ANALYSIS ENGINE 📹
+*(Repository coming soon!)*
+
+An advanced Express & TypeScript backend designed to ingest post-stream YouTube videos and completed livestreams to enable conversational search and Q&A over video content.
+
+- **Ingestion & Sync:** Scrapes subtitle transcripts and live chat records using Python sub-processes. It implements a unique typing-latency calculation (~1.5 seconds per word shift) to realign viewer chat comments back to the exact video timeline event they refer to.
+- **Local Semantic Vector Search:** Compiles voice transcripts and audience chat logs into chronological 2-minute blocks, mapping them into high-dimensional vector space using a local `nomic-embed-text` model.
+- **Local RAG Q&A Engine:** Supports natural language queries, running similarity checks to find the most relevant context blocks, and streams token-by-token responses from a local `gemma3:1b` model using Server-Sent Events (SSE).
+
+---
+
+#### 3. GIPHY CLONE 🎨
+**[🔗 Live Demo](https://gif-lab.vercel.app/)**
+
+A fully responsive, high-performance web application recreating the core functionalities of Giphy.com, incorporating comprehensive search capabilities, an infinite-scrolling feed, a robust favorites system, and a client-side media editor.
+
+- **Edge Media Processing (Gif Lab):** Utilizes `@ffmpeg/ffmpeg` compiled to WebAssembly to allow zero-server-cost video editing directly inside browser memory, letting users add filters, overlays, or text to GIFs locally.
+- **Performance Optimizations:** Heavily employs progressive enhancement by serving looping, highly compressed `.mp4` video feeds instead of heavy `.gif` assets, reducing load times and bandwidth consumption.
+- **Frontend Architecture:** Built using React, Vite, and Tailwind CSS, featuring IntersectionObserver-driven infinite pagination, React Context API state synchronization, and Cloudinary proxy download transformations.
 
 ---
 
