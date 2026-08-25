@@ -27,7 +27,7 @@ I am a passionate **Full-Stack Developer** currently pursuing my **B.Tech in Com
 
 My primary focus is on **modern web architectures, RESTful APIs, real-time communication, and secure authentication flows**. With hands-on internship experience and a solid foundation in the MERN/MEAN stack, I love transforming complex requirements into smooth, intuitive digital experiences.
 
-- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** (CGPA: 7.2)
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** (CGPA: 7.7)
 - 💻 Passionate about **Full-Stack Web Development** and **System Architecture**
 - 🌐 Portfolio Website: [devsharma.dev](https://devsharma.dev)
 - 💼 LinkedIn: [Dev Sharma](https://linkedin.com/in/dev-sharma-708074321)
